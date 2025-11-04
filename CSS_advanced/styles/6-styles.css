@@ -24,7 +24,7 @@ html {
 }
 
 body {
-	foreground: var(--text-color);
+	color: var(--text-color);
 	font-family: var(--font-family-base);
 	font-size: var(--font-size-medium);
 	font-weight: var(--font-weight-regular);
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-	foreground: var(--text-color);
+	color: var(--text-color);
 }
 
 .visually-hidden {

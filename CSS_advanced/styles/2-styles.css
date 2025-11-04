@@ -5,11 +5,11 @@ html {
 }
 
 body {
-	foreground: #161616
+	color: #161616
 }
 
 a {
-	foreground: #161616
+	color: #161616
 }
 
 .visually-hidden {
